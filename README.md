@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VenkatgiriS
-- 👀 I’m interested in pets , travel , stocks , and devops fo livelihood
+- 👀 I’m interested in pets , travel , stocks , and DevOps for livelihood
 - 🌱 I’m currently learning Devops and cloud technologies
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me svg_359.
